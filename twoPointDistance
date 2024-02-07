@@ -1,0 +1,7 @@
+ax = 1
+bx = 6
+ay = 8
+by = 10
+
+dis = 
+print(f"The Distance between a and b: {dis}")
